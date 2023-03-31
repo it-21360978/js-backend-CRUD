@@ -1,8 +1,8 @@
-## JS Backend CRUD
+# JS Backend CRUD
 
 This is a simple backend CRUD (Create, Read, Update, Delete) application built using Node.js and Express.js. It allows users to perform basic CRUD operations on a database, which can be accessed through HTTP requests.
 
-# *Getting Started
+## *Getting Started
 To get started with this project, follow these steps:
 
 1.Clone this repository to your local machine
@@ -12,7 +12,7 @@ To get started with this project, follow these steps:
 5.Run npm start to start the server
 6.Once the server is running, you can access the API endpoints using a tool like Postman or cURL.
 
-# *API Endpoints
+## *API Endpoints
 This project includes the following API endpoints:
 
 GET /api/items - Get all items in the database
@@ -22,7 +22,7 @@ PUT /api/items/:id - Update an existing item
 DELETE /api/items/:id - Delete an item by ID
 All requests and responses are in JSON format.
 
-# Contributing
+## Contributing
 If you would like to contribute to this project, please follow these steps:
 
 1.Fork this repository
@@ -31,5 +31,5 @@ If you would like to contribute to this project, please follow these steps:
 4.Push your changes to your forked repository
 5.Submit a pull request
 
-## License
-# *This project is licensed under the MIT License. See the LICENSE file for details.
+# License
+## *This project is licensed under the MIT License. See the LICENSE file for details.
