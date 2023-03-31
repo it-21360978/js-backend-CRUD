@@ -22,6 +22,14 @@ This project includes the following API endpoints:
 <li>DELETE /api/items/:id - Delete an item by ID</li></ul>
 All requests and responses are in JSON format.
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run start
+```
+
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
 <ul>
@@ -31,5 +39,17 @@ If you would like to contribute to this project, please follow these steps:
 <li>Push your changes to your forked repository</li>
 <li>Submit a pull request</li></ul>
 
+## Author
+
+- [GIHAN SERASINGHE](https://github.com/it-21360978)
+
 # License
 ## *This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Feedback
+
+If you have any feedback, please reach out to me at https://bit.ly/3M5AXuf
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/gihan-serasinghe-457033264))
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SrasingheG)
