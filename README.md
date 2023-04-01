@@ -1,4 +1,6 @@
-# JS Backend CRUD
+# JS Backend CRUD   
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+
 
 This is a simple backend CRUD (Create, Read, Update, Delete) application built using Node.js and Express.js. It allows users to perform basic CRUD operations on a database, which can be accessed through HTTP requests.
 
